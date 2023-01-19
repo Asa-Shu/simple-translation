@@ -5,7 +5,7 @@
 
 ## Summary
 
-Shortcut key to translate the selected string into English and replace it . The program itself is very simple.
+Shortcut key to translate the selected string into English and replace it. The program itself is very simple.
 
 You can find more details [here]().
 
